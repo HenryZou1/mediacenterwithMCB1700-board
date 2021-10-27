@@ -1,2 +1,2 @@
 # mediacenterwithMCB1700-board
-Blinky.c is main file
+Blinky.c is main file, finalproject.pdf is a report of the project
